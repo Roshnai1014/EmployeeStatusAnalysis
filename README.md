@@ -1,6 +1,13 @@
 Employee Status Analysis With Python:
+
+
+
  We can analyze a lot of data and models from Employee dataset  because nowdays IT sector has been facing lots of thing. This field has consistently focused on changing business needs.Many people are joining this field from differnet background.
+
+ 
  I’ll start this  data analysis task with Python by importing the dataset and all the Python libraries needed for this task:
+
+ 
 1.Numpy
 2.Pandas
 3.Plotly
