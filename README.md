@@ -24,8 +24,9 @@ Amount and percentages of employees have highest Qualification:
 
 
 
+![newplot (7)](https://github.com/Roshnai1014/EmployeeStatusAnalysis/assets/135608229/b5ceded7-8354-402e-97ce-ecb04188822d)
 
-![newplot (7)](https://github.com/Roshnai1014/EmployeeStatusAnalysis/assets/135608229/e6808545-c5c2-41ce-bdf7-e222880dd71a
+
 
 
 Percentage of people was in bench:
